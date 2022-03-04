@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Kotlin, Python for coding tests
+- 🔭 I’m currently working on C/C++
+- 🌱 I’m currently learning C/C++, Python for coding tests
 - 👯 I’m looking to collaborate on study
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
