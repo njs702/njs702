@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njs702&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njs702&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njs702&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on C/C++
 - 🌱 I’m currently learning C/C++, Python for coding tests
 - 👯 I’m looking to collaborate on study
